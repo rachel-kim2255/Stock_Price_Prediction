@@ -10,14 +10,14 @@
 
     
 ## 📂 Project Overview
-The project includes the following steps:  
-•	Data Loading: Obtaining stock data from yahoo finance API.  
-•	Exploratory Data Analysis (EDA): Visualizing trends, patterns, seasonality in the data.  
-•	Feature Engineering (Technical Indicators) : Adding technical indicators (e.g. MA5, RSI...)  
-•	Modeling (1): Building models to predict future stock prices with existing data and added technical indicators.  
-•	Feature Engineering (Economical Indicators) : Adding economical indicators (e.g. insterest, gold price, CPI) for a more detailed analysis.  
-•	Modeling (2): Building enhanced models to predict future stock prices with added economical indicators.  
-•	Model Evaluation: Evaluating the performance of the models using MAE and accuracy score.  
+The project includes the following steps:    
+•	**Data Loading**: Obtaining stock data from yahoo finance API.  
+•	**Exploratory Data Analysis (EDA)**: Visualizing trends, patterns, seasonality in the data.  
+•	**Feature Engineering (Technical Indicators)**: Adding technical indicators (e.g. MA5, RSI...)  
+•	**Modeling (1)**: Building models to predict future stock prices with existing data and added technical indicators.  
+•	**Feature Engineering (Economical Indicators)**: Adding economical indicators (e.g. insterest, gold price, CPI) for a more detailed analysis.  
+•	**Modeling (2)**: Building enhanced models to predict future stock prices with added economical indicators.  
+•	**Model Evaluation**: Evaluating the performance of the models using MAE and accuracy score.  
 
 
 

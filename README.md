@@ -1,6 +1,6 @@
 # 📈 Stock Price Prediction Analysis
 
-📎 Rachel Kim, K***  
+📎 Rachel Kim and 1 other  
 📅 Date: 2025.04  
 📚 Team Project (2p)  
 

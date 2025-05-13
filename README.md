@@ -34,13 +34,13 @@ To run the code and replicate the analysis, we used the following Python librari
 •	yfinance: Yahoo Finance API (if using stock data).  
 
 ## 📂 Files in the folder  
-•	**QQQ_stock_marcket_Coding_Final.ipynb**: Jupyter Notebook containing the complete analysis.    
-•	**QQQ Final - Presentation Slides.pptx**: Presentation file    
+•	**QQQ Stock Price Prediction.ipynb**: Jupyter Notebook containing the complete analysis.    
+•	**QQQ Presentation.pdf**: Presentation file    
 •	**datasets**: Folder containing our datasets   
 QQQ (200101-241231) : Original Dataset   
 QQQ_tech(200101-241231) : Original + tech indicators dataset   
 QQQ_tech, macro(200101-241231) : Original + tech + economical dataset  
-•	**Read me** : Descriptions of our process and summary  
+•	**Read me** : Descriptions of the process and summary  
 
 
 
